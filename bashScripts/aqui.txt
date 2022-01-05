@@ -1,0 +1,14 @@
+1pipe.sh
+2pipe.sh
+aqui.txt
+arrays.sh
+cond.sh
+etset.txt
+fun.sh
+learq.sh
+loop.sh
+oi.sh
+retorna.sh
+selector.sh
+soma.sh
+teste.txt

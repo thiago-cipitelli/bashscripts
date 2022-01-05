@@ -1,0 +1,3 @@
+oi
+
+override_req("nvim_tree", "plugins.config.nvimtree")
